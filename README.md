@@ -11,3 +11,4 @@ This is a psychic computer game. User guesses the letter that the computer is th
 Once you win or you run out of guesses, computer will choose a new letter for the user to guess.
 
 
+![image](https://user-images.githubusercontent.com/50887666/67871157-4c4cfc00-fb06-11e9-9e85-72b99266f1cf.png)
